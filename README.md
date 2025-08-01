@@ -5,13 +5,21 @@
 
 ## 👨‍💻 About me:
 
--   🔭 I’m currently working with <a href="https://www.bybtech.it"> **BYB Tech** </a> as a Freelancer.
+I'm a passionate **Software Engineer** who lives and breathes code 🤖. My journey in tech began early, driven by curiosity—and since starting my professional career in 2021, I’ve been building solid, scalable software ever since 🚀.
 
--   🌱 I’m currently learning **the communication protocols used by modern vehicles in the Automotive industry.**
+### 💼 What I do
 
--   👯 I’m looking to collaborate on **projects that envolves electronics and wireless communication.**
+-   🧠 **Specialized in C++/Qt**, especially **QtQuick/QML** for modern desktop and embedded Linux applications.
+-   ⚙️ Working with **Qt 5 & 6**, **C++17–20**, and building production-ready software with clean, maintainable architecture.
+-   🎨 A strong eye for **UI/UX design** using **Figma**, ensuring great user experiences alongside functional code.
+-   🔭 Currently freelancing with **BYB Tech**, contributing to cross-platform tools and real-time systems.
 
--   💬 Ask me about **anything related to desktop application developpment.**
+### 🚗 What I'm exploring
+
+-   🌱 Diving into **automotive communication protocols** (CAN, LIN, etc.)
+-   👯 Interested in projects that combine **software, electronics**, and **wireless communication**.
+
+⚡ I'm ambitious, a fast learner, and truly enjoy working on meaningful software that solves real problems.
 
 ## 🌐 Socials:
 
