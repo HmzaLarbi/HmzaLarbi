@@ -1,7 +1,10 @@
+<a href="mailto:larbi0hamza@gmail.com">
 <picture>
-  <a href="mailto:larbi0hamza@gmail.com">
-  <img alt="Hamza's Header" src="Resources/profileheader.png"></a>
+  <source media="(prefers-color-scheme: dark)" srcset="Resources/darkHeader.png">
+  <source media="(prefers-color-scheme: light)" srcset="Resources/lightHeader.png">
+  <img alt="Hamza's profile header" src="Resources/lightHeader.png">
 </picture>
+</a>
 
 ## 👨‍💻 About me:
 
